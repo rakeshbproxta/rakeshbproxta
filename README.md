@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rakeshbproxta
+- 👋 Hi, I’m Rakesh Borole
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning nodejs
 - 📫 How to reach me rakesh.b@proxta.in
